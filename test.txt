@@ -2,7 +2,4 @@
 2 bbbbbbbbbbbbbbbbbbbbbb
 3 ccccccccccccccccccccccccc
 4
-5 ffffffffffffffffffffffffffff
-6 ggggggggggggggggggg
-7
 8
